@@ -1,5 +1,7 @@
 # Getting Started Guides  
-Designed to be completed in 15-30 minutes
+Designed to be completed in 15-30 minutes  
+https://spring.io/guides#gettingStarted  
+
 
 ## 1. Building a RESTful Web Service  
   
