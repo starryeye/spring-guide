@@ -1,0 +1,7 @@
+GET localhost:8080/greeting
+###
+GET localhost:8080/greeting
+###
+GET localhost:8080/greeting?name=Spring
+###
+GET localhost:8080/greeting?name=lee
