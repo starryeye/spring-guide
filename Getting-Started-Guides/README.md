@@ -6,7 +6,10 @@ Designed to be completed in 15-30 minutes
 Learn How to create a RESTful web service with Spring.  
 https://spring.io/guides/gs/rest-service/  
   
-new learn : record, MockMvc  
+project  
+- restservice
+new learn  
+- record, MockMvc  
 
 
 ## 2. Scheduling Tasks
@@ -14,4 +17,7 @@ new learn : record, MockMvc
 Learn how to schedule tasks with Spring.  
 https://spring.io/guides/gs/scheduling-tasks/  
 
-new learn : 
+project  
+- schedulingtasks  
+new learn  
+-
