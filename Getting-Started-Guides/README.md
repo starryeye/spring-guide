@@ -7,7 +7,9 @@ Learn How to create a RESTful web service with Spring.
 https://spring.io/guides/gs/rest-service/  
   
 project : restservice  
-new learn : record type, MockMvc  
+new
+- record type
+- MockMvc
 
 
 ## 2. Scheduling Tasks
@@ -16,4 +18,8 @@ Learn how to schedule tasks with Spring.
 https://spring.io/guides/gs/scheduling-tasks/  
 
 project : schedulingtasks  
-new learn :  
+new
+- @Scheduled
+- @EnableScheduling
+- @SpyBean
+- awaitility library
