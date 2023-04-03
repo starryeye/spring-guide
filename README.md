@@ -1,7 +1,7 @@
 # spring-guide
 
 ## spring.io official guide study!!
-https://spring.io/guides#gettingStarted
+https://spring.io/guides
 
 ## list
 - Getting-Started-Guides  
