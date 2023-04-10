@@ -25,3 +25,11 @@ new
 - @EnableScheduling
 - @SpyBean
 - awaitility library
+
+
+## 3. Consuming a RESTful Web Service
+  
+Learn how to retrieve web page data with Spring's RestTemplate.  
+https://spring.io/guides/gs/consuming-rest/  
+  
+project : consumingrest
