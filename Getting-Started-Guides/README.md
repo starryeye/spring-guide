@@ -33,3 +33,7 @@ Learn how to retrieve web page data with Spring's RestTemplate.
 https://spring.io/guides/gs/consuming-rest/  
   
 project : consumingrest
+new  
+- server.port=0  
+- RestTemplateBuilder  
+- Server project providing API : https://github.com/spring-guides/quoters  
