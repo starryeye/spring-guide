@@ -32,7 +32,7 @@ new
 Learn how to retrieve web page data with Spring's RestTemplate.  
 https://spring.io/guides/gs/consuming-rest/  
   
-project : consumingrest
+project : consumingrest  
 new  
 - server.port=0  
 - RestTemplateBuilder  
