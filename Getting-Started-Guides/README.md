@@ -37,3 +37,10 @@ new
 - server.port=0  
 - RestTemplateBuilder  
 - Server project providing API : https://github.com/spring-guides/quoters  
+
+## 4. Accessing Relational Data using JDBC with Spring
+  
+Learn how to access relational data with Spring.  
+https://spring.io/guides/gs/relational-data-access/  
+  
+project : relationaldataaccess  
