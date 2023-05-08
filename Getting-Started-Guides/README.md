@@ -5,7 +5,7 @@ https://spring.io/guides#gettingStarted
 
 ## 1. Building a RESTful Web Service  
   
-Learn How to create a RESTful web service with Spring.  
+Learn how to create a RESTful web service with Spring.  
 https://spring.io/guides/gs/rest-service/  
   
 project : restservice  
@@ -50,7 +50,7 @@ new
 
 ## 5. Creating a Multi Module Project
   
-learn how to build a library and package it for consumption in a Spring Boot application.  
+Learn how to build a library and package it for consumption in a Spring Boot application.  
 https://spring.io/guides/gs/multi-module/  
   
 project : multimodule  
