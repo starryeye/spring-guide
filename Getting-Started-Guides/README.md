@@ -47,3 +47,14 @@ project : relationaldataaccess
 new  
 - JdbcTemplate, NamedParameterJdbcTemplate  
 - MapSqlParameterSource, BeanPropertySqlParameterSource  
+
+## 5. Creating a Multi Module Project
+  
+learn how to build a library and package it for consumption in a Spring Boot application.  
+https://spring.io/guides/gs/multi-module/  
+  
+project : multimodule  
+new  
+- ConfigurationProperties, EnableConfigurationProperties  
+- Spring boot multi module  
+  
