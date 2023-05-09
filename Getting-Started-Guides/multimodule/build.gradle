@@ -40,3 +40,9 @@ project(':application') {
 		implementation project(':library')
 	}
 }
+
+// 빌드
+// ./gradlew application:bootJar
+
+// 실행
+// java -jar ~~.jar
