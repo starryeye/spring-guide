@@ -10,6 +10,10 @@ import org.springframework.boot.test.web.client.TestRestTemplate;
 /**
  * HTTP 요청 Test
  * Spring Web Application 전체를 띄운다.
+ *
+ * @SpringBootTest 는 Spring Boot Application 의 전체 컨텍스트를 띄운다.
+ * @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT) 는
+ * 실제 내장 톰캣 서버가 띄워진다. 실제 HTTP 서버 환경에서 Test 가 이루어진다.
  */
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 public class HttpRequestTest {
