@@ -64,3 +64,10 @@ Learn how to test Spring Boot applications and MVC controllers.
 https://spring.io/guides/gs/testing-web/  
 
 project : TestWeb  
+new  
+- @SpringBootTest, Smoke test
+- @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
+- @SpringBootTest + @AutoConfigurationMockMvc
+- @WebMvcTest
+- @WebMvcTest + @MockBean
+  
