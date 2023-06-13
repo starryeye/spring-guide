@@ -15,7 +15,7 @@ import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
  * Filter, WebMvcConfigurer, HandlerMethodArgumentResolver 등의 Bean 만 로드한다.
  * - MockMvc Bean 을 생성하여 로드한다.
  * @SpringBootTest 가 없어서 Spring Boot Application 전체 컨텍스트가 띄워지지 않으므로, 스프링 빈이 주입될 수 없다.
- * 그래서, @Service, @Component 등의 빈을 이용하기 위해서는 Mock 객체를 이용해야 한다.
+ * 그래서, @Service, @Component 등의 빈을 이용하기 위해서는 Mock 객체를 이용해야 한다. -> WebMockTest.java
  *
  * @WebMvcTest 는 @SpringBootTest + @AutoConfigurationMockMvc 조합 보다 로딩이 단순하여 Test 수행 속도가 빠르다.
  */
